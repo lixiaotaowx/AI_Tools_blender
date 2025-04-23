@@ -16,8 +16,9 @@ bl_info = {
     "blender": (4, 2, 0),
     "location": "View3D > F7",
     "description": "工具集",
-    "wiki_url": "",
-    "tracker_url": "",
+    "doc_url": "https://github.com/lixiaotaowx/AI_Helper",
+    "wiki_url": "https://github.com/lixiaotaowx/AI_Helper",
+    "tracker_url": "https://github.com/lixiaotaowx/AI_Helper/issues",
     "version": ('2', '0', '1'),
 }
 
